@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Roul</h1>
 <h3 align="center">A passionate Full Stack web developer skilled in MERN Stack,JavaScript and it's frameworks</h3>
 
-- 👨‍💻 All of my projects are available at [My Protfolio](https://ashishprotfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Protfolio](https://ashish-portfolio-nu.vercel.app/)
 
 - 📫 How to reach me **aroul303@gmail.com**
 
