@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish51997&show_icons=true&locale=en" alt="ashish51997" /></p>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ashish51997/Ashish51997/blob/output/github-contribution-grid-snake.svg)
